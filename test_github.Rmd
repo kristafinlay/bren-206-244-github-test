@@ -7,15 +7,15 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Type your name (or anything else) HERE: Krista Finlay
+Type your name (or anything else) HERE: Finlay
 
 Here's some code (change the variable names and values):
 ```{r}
 # Changegit these variable names and values:
 
-blue <- 7
+blue <- 5
 
-green <- 10
+green <- 8
 
 purple <- blue/red
 
